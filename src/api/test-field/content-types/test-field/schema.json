@@ -1,0 +1,14 @@
+{
+  "kind": "singleType",
+  "collectionName": "test_fields",
+  "info": {
+    "singularName": "test-field",
+    "pluralName": "test-fields",
+    "displayName": "Test field"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
