@@ -456,7 +456,7 @@ export interface ApiReviewReview extends Struct.CollectionTypeSchema {
       Schema.Attribute.Required &
       Schema.Attribute.SetMinMax<
         {
-          max: 5;
+          max: 10;
           min: 1;
         },
         number
